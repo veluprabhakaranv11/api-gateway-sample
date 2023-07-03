@@ -1,4 +1,4 @@
 server:
-  port: 8084
- # context-path: /products
+  port: 8888
+  context-path: /products
   
